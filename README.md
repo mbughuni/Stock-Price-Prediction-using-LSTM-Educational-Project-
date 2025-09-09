@@ -3,8 +3,7 @@
 ## Overview
 
 This project demonstrates how to use Long Short-Term Memory (LSTM) networks, a type of recurrent neural network (RNN), to predict stock prices based on historical time-series data.
-
-We use Apple Inc. (AAPL) stock data from Yahoo Finance to train and test the model. The goal is to predict the next 30 days of stock prices using past 60 days of historical data.
+I used Apple Inc. (AAPL) stock data from Yahoo Finance to train and test the model. The goal is to predict the next 30 days of stock prices using past 60 days of historical data.
 ---
 Objectives
 
@@ -52,7 +51,7 @@ Here is a sample prediction result:
 Clone the repo and install dependencies:
 
 ```bash
-git clone https://github.com/yourusername/stock-price-prediction.git
+git clone https://github.com/mbughuni/Stock-Price-Prediction-using-LSTM-Educational-Project-.git
 cd stock-price-prediction
 pip install -r requirements.txt
 ```
