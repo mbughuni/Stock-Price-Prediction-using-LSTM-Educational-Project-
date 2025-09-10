@@ -1,4 +1,4 @@
-# 📈 Stock Price Prediction using LSTM (AAPL)
+# Stock Price Prediction using LSTM (AAPL)
 
 ## Overview
 
@@ -25,7 +25,7 @@ NumPy / Pandas – Data handling
 Matplotlib – Visualization
 
 yfinance – Stock price data
-## 🚀 Features
+## Features
 
 - Collects stock data using **yfinance**
 - Scales and preprocesses data
@@ -38,7 +38,7 @@ yfinance – Stock price data
 
 Source: Yahoo Finance
 
-## 📊 Example Plot
+## Example Plot
 
 Here is a sample prediction result:
 
@@ -46,7 +46,7 @@ Here is a sample prediction result:
 
 ---
 
-## ⚙️ Installation
+## Installation
 
 Clone the repo and install dependencies:
 
